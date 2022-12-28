@@ -1,0 +1,15 @@
+.holder{
+    display: flex;
+    background-color: blueviolet;
+    flex-wrap: wrap;
+    padding: 10px;
+    justify-content: space-evenly;
+}
+*{
+    margin: 0;
+    box-sizing: border-box;
+}
+.item{
+    background-color: aqua;
+    border-radius: 2px solid black;
+}
